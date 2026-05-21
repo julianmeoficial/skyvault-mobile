@@ -225,7 +225,7 @@ Formato por versión: fecha, resumen, y secciones **Added**, **Changed**, **Fixe
 
 ---
 
-### v1.8.1 — 2026-05-20
+### v1.8.0 — 2026-05-20
 
 **Resumen:** Arranque en Expo Go sin crash por `ExponentAV`.
 
@@ -235,7 +235,7 @@ Formato por versión: fecha, resumen, y secciones **Added**, **Changed**, **Fixe
 
 ---
 
-### v1.8.0 — 2026-05-20
+### v1.7.0 — 2026-05-20
 
 **Resumen:** Corrección de filtros del catálogo, UX comparador/stats/inicio invitado, temas y visor de imagen.
 
@@ -258,7 +258,7 @@ Formato por versión: fecha, resumen, y secciones **Added**, **Changed**, **Fixe
 
 ---
 
-### v2.6.0 — 2026-05-20
+### v1.6.0 — 2026-05-20
 
 **Resumen:** Optimización UX y ~90% paridad con web V2.6 — liquid glass, catálogo con filtros en modal, comparador completo, hub invitado Figma, stats segmentados, copy por rol, notificaciones premium y feedback unificado de mutaciones.
 
